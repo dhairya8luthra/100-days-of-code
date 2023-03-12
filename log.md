@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 0: 
-##### (delete me or comment me out)
 
 **Today's Progress**: 
 
@@ -9,7 +8,6 @@
 
 **Link to work:** 
 ### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
 
 **Today's Progress**: .
 
