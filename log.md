@@ -1,20 +1,8 @@
 # 100 Days Of Code - Log
 
-### Day 0: 
+### Day 1: 14th March 2023
 
 **Today's Progress**: 
+Reviewed HTML and also revised some CSS
+**Thoughts:** I had forgotten some HTML and CSS concepts and I think that should give some more time and do a project based learning course from
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** 
-### Day 0: February 30, 2016 (Example 2)
-
-**Today's Progress**: .
-
-**Thoughts**: 
-**Link(s) to work**: 
-### Day 1: 
-
-**Today's Progress**: 
-
-**Thoughts** 
